@@ -1,7 +1,7 @@
 # URI ONLINE JUDGE SOLUTION CODES
 
 URI ONLINE JUDGE : [https://urionlinejudge.com.br](https://urionlinejudge.com.br)  
-MY PROFILE : [Maciej on URI](https://www.urionlinejudge.com.br/judge/en/users/statistics/496213)
+MY PROFILE       : [Maciej on URI](https://www.urionlinejudge.com.br/judge/en/users/statistics/496213)
 
 ### Already Solved
 
